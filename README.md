@@ -1,5 +1,4 @@
-![mR.WIJAYA ](img\github-header-banner.png)
-
+![wijaya](img/github-header-banner.png)
 #### 💫 About Me:
 #### Hello World !  I'm Mr. Wijaya 👋
 
