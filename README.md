@@ -1,27 +1,5 @@
 ![mR.WIJAYA ](img\github-header-banner.png)
 
-
-<!-- ##### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,javascript,python,nodejs,php,java,mysql,kotlin,laravel,nodejs,vscode,visualstudio,linux,blender,raspberrypi,tailwind,arduino,matlab,&theme=light)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
-<img src="https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0" />
-<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-<img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
-
-##### Social Mediaa
-[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,linkedin,&perline=)](https://skillicons.dev)
-
-##### My GitHub Stats
-![Mr.Wijaya GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=prs_,&theme=blue-green&show_icons=true) -->
 #### 💫 About Me:
 #### Hello World !  I'm Mr. Wijaya 👋
 
